@@ -2,7 +2,7 @@
 
 Created a local folder named GitHub_task on my Ubuntu system.  
 Inside it, I wrote a simple Python program that prints "Hello World!".  
-Initialized a Git repository, committed the file, and pushed it to my GitHub repository MRM_<YashaswiniMukkamala>.
+Initialized a Git repository, committed the file, and pushed it to my GitHub repository MRM_YashaswiniMukkamala
 
 
 ## Steps Followed
